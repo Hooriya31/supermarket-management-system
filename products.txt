@@ -1,0 +1,2 @@
+P1,Chips,Snacks,50.0,299,2025-12-31
+P3,Icecream,Frozen Items,90.0,101,2026-11-11
